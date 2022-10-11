@@ -1,0 +1,6 @@
+{
+    "name": "ralphdepaz/logapp-de-paz",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {}
+   }
