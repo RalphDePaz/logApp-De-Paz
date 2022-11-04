@@ -1,1 +1,1 @@
-# logApp-De-Paz
+# COVID-19 TRACKING SYSTEM
