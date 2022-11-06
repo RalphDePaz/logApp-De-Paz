@@ -36,24 +36,41 @@ This will get the basic information such as name, address, and also the log date
 ## INSTALLATION
 
 - First clone this repository (https://github.com/RalphDePaz/logApp-De-Paz.git)
+
 - Download and install XAMPP [Open-source cross-platform web server solution stack package]
   - XAMPP download link (https://www.apachefriends.org)  
     - Open XAMPP as administrator
       - Start MySQL
+  
 - Create a account on https://www.freesqldatabase.com
   - You will receive an email you can use later on 
   - Log in into the PhpMyAdmin
+
 - *You can also use MySQL Workbench*
+
 - Set up your data base
   - Create a table for the PERSON [uid, first_name, last_name, address, and logdt]
   - Create a table for the ACCOUNT [uid, username, password]
     -  *Make sure that the logdt is set to TIMESTAMP and default CURRENT TIMESTAMP*
+
 - Locate the cloned repository and open the config.php file on VSCODE or any software you want.
   - Edit this base on what the freesqldatabe email you received.
   >define('ROOT_URL', ''); define('DB_HOST', ''); define('DB_USER', ''); define('DB_PASS', '');  define('DB_NAME', '');
+
 - You can test your file direct on VSCODE using some extension
 - You can also test it using the XAMPP
-  - Move your folder in the XAMPP/htdocs
+  - Move your folder in the XAMPP/htdocs file location
+  >D:\Program Files\Xampp\htdocs
+
+- To test using XAMPP
+  - Use any browser you want and type this
+    - Registration Form
+    - >http://localhost/"Your_Foldername"/logApp-scaling-octo/
+    - Log In Page
+    - >http://localhost/"Your_Foldername"/logApp-scaling-octo/guestbook-login.php
+    - Person's Log
+    - >http://localhost/"Your_Foldername"/logApp-scaling-octo/guestbook-list.php
+    
                                                                                                                                           
 <!-- PROFILE   -->                                                                                                                                         
 
