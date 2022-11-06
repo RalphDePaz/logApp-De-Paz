@@ -1,7 +1,7 @@
 <!-- NAME -->
 
 # COVID-19 TRACKING SYSTEM
-*logApp-De-Paz*
+>*logApp-De-Paz*
 
 <div align="right">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/RalphDePaz/logApp-De-Paz?label=Commits&logo=github&logoColor=green&style=for-    the-badge"> 
@@ -33,11 +33,31 @@ This will get the basic information such as name, address, and also the log date
 
 
 <!--INSTALLATION -->
-                                                                                                                                         
+## INSTALLATION
+
+- First clone this repository (https://github.com/RalphDePaz/logApp-De-Paz.git)
+- Download and install XAMPP [Open-source cross-platform web server solution stack package]
+  - XAMPP download link (https://www.apachefriends.org)  
+    - Open XAMPP as administrator
+      - Start MySQL
+- Create a account on https://www.freesqldatabase.com
+  - You will receive an email you can use later on 
+  - Log in into the PhpMyAdmin
+- *You can also use MySQL Workbench*
+- Set up your data base
+  - Create a table for the PERSON [uid, first_name, last_name, address, and logdt]
+  - Create a table for the ACCOUNT [uid, username, password]
+    -  *Make sure that the logdt is set to TIMESTAMP and default CURRENT TIMESTAMP*
+- Locate the cloned repository and open the config.php file on VSCODE or any software you want.
+  - Edit this base on what the freesqldatabe email you received.
+  >define('ROOT_URL', ''); define('DB_HOST', ''); define('DB_USER', ''); define('DB_PASS', '');  define('DB_NAME', '');
+- You can test your file direct on VSCODE using some extension
+- You can also test it using the XAMPP
+  - Move your folder in the XAMPP/htdocs
                                                                                                                                           
 <!-- PROFILE   -->                                                                                                                                         
 
-### AUTHOR
+## AUTHOR
                                                                                                                                        
 <div align="left">
     <img src="https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/270772910_2085853528243775_5726229684246422638_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEcABL7t8-tQVL0A17FhjCO6r98w66wdubqv3zDrrB25jdgPRV5Oj2Ui9kB8Ng7ZZhq9ejDGgEw7ywIwP8wbEmj&_nc_ohc=sAIGzMY57HsAX8oU-yc&_nc_ht=scontent.fmnl13-1.fna&oh=00_AfDYypJ7CotBLxPcT1xZso3LdqP5IcL9PJlj7Xm9rgzlRA&oe=636C837A"
@@ -46,7 +66,7 @@ This will get the basic information such as name, address, and also the log date
  
 <div align="left"> 
   
-### John Ralph De Paz
+## John Ralph De Paz
                                                                                                                                   
 *BSCS 3B-1*                                                                                                                                 
 
