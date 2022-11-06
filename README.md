@@ -28,7 +28,12 @@ This will get the basic information such as name, address, and also the log date
  <div align="center">
     <img src="https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif" width="400" height="260" style="display: block; margin: 0 auto">  
  </div>
-                                                              
+
+![My Image](image/Registration.png)
+![My Image](image/Login_Page.png)
+![My Image](image/Persons_log.png)
+
+  
 <br>
 
 
