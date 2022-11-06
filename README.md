@@ -3,7 +3,7 @@
 # COVID-19 TRACKING SYSTEM
 *logApp-De-Paz*
 
-<div align="center">
+<div align="right">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/RalphDePaz/logApp-De-Paz?label=Commits&logo=github&logoColor=green&style=for-    the-badge"> 
 </div>
 <br>  
@@ -25,9 +25,10 @@ This will get the basic information such as name, address, and also the log date
 
 
 <!-- VISUAL   -->
-<div align="center">
-    <img src="https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif" width="400" height="260" style="display: block; margin: 0 auto""> 
-</div>
+ <div align="center">
+    <img src="https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif" width="400" height="260" style="display: block; margin: 0 auto">  
+ </div>
+                                                              
 <br>
 
 
