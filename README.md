@@ -6,9 +6,6 @@
 </div>
   
 
-  
-  
-[]([https://www.example.com](https://www.facebook.com/johnralph.depaz/))
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -24,4 +21,14 @@ To get a local copy up and running follow these simple example steps.
 </div>
 
                                                                                                                                           
+                                                                                                                                          
+### Hi 👋
+
+John Ralph De Paz
+                                                                                                                                          
+BSCS 3B-1                                                                                                                                          
+
+[GitHub ](https://github.com/RalphDePaz)
+
+[Email 📬](mailto:202080468@psu.palawan.edu.ph)
 
