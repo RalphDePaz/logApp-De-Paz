@@ -10,10 +10,16 @@
 
 
 <!-- DESCRIPTION -->
-## Getting Started
+## DESCRIPTION
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<p style='text-align: justify;'>  
+  
+This **COVID-19 TRACKING SYSTEM** is intended to assist the general public in obtaining all pertinent and important information pertaining to the scenario that would keep them well-informed and updated as well as provide them with immediate and preliminary assistance if they exhibit COVID-19 virus symptoms so they can be subjected to immediate medical attention and attending.
+
+This will get the basic information such as name, address, and also the log date and time. The system will make sure that all of the information is safe and only admins can view the list of individuals who visited the premises.    
+  
+</p>
+
 <br> 
 
 
