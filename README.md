@@ -28,7 +28,14 @@ This will get the basic information such as name, address, and also the log date
  <div align="center">
     <img src="https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif" width="400" height="260" style="display: block; margin: 0 auto">  
  </div>
-                                                              
+ 
+<br>
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="image/Registration.png">  REGISTRATION |  <img width="1604" src="image/Login_Page.png">  LOG IN PAGE |  <img width="1604" src="image/Persons_log.png">  PERSON'S LOG |  
+
+  
 <br>
 
 
@@ -78,7 +85,7 @@ This will get the basic information such as name, address, and also the log date
                                                                                                                                        
 <div align="left">
     <img src="https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/270772910_2085853528243775_5726229684246422638_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEcABL7t8-tQVL0A17FhjCO6r98w66wdubqv3zDrrB25jdgPRV5Oj2Ui9kB8Ng7ZZhq9ejDGgEw7ywIwP8wbEmj&_nc_ohc=sAIGzMY57HsAX8oU-yc&_nc_ht=scontent.fmnl13-1.fna&oh=00_AfDYypJ7CotBLxPcT1xZso3LdqP5IcL9PJlj7Xm9rgzlRA&oe=636C837A"
-         width="200" height="200" style="display: block; margin: 0 auto""> 
+         width="200" height="200" style="display: block; margin: 0 auto"> 
 </div>
  
 <div align="left"> 
@@ -95,10 +102,6 @@ This will get the basic information such as name, address, and also the log date
 
 
 
-
-
-
-
-
-
-
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img width="1604" src="image/Registration.png">  REGISTRATION |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="image/Login_Page.png">  LOG IN PAGE | 
